@@ -1,0 +1,190 @@
+2023-05-18 10:05:555 INFO  HomePage :29 - Mouse hover to BuySell link [[ChromeDriver: chrome on WINDOWS (f1969e88a755023e62d56427ad44524c)] -> xpath: //a[normalize-space()='buy + sell']]
+2023-05-18 10:05:688 INFO  HomePage :29 - Mouse hover to BuySell link [[ChromeDriver: chrome on WINDOWS (5e94dd1a97995a3b301da88eb5fb0b89)] -> xpath: //a[normalize-space()='buy + sell']]
+2023-05-18 10:05:888 INFO  HomePage :33 - Click on Search Cars link [[ChromeDriver: chrome on WINDOWS (5e94dd1a97995a3b301da88eb5fb0b89)] -> xpath: //a[normalize-space()='Search Cars']]
+2023-05-18 10:05:977 INFO  NewAndUsedCarSearchPage :53 - Verify New And Used Car text Proxy element for: DefaultElementLocator 'By.xpath: //h1[normalize-space()='New & Used Car Search - carsguide']'
+2023-05-18 10:05:844 INFO  HomePage :29 - Mouse hover to BuySell link [[ChromeDriver: chrome on WINDOWS (55648ff1b96bb446bd4f3ef45722a6e2)] -> xpath: //a[normalize-space()='buy + sell']]
+2023-05-18 10:05:13 INFO  HomePage :33 - Click on Search Cars link [[ChromeDriver: chrome on WINDOWS (55648ff1b96bb446bd4f3ef45722a6e2)] -> xpath: //a[normalize-space()='Search Cars']]
+2023-05-18 10:05:119 INFO  NewAndUsedCarSearchPage :53 - Verify New And Used Car text Proxy element for: DefaultElementLocator 'By.xpath: //h1[normalize-space()='New & Used Car Search - carsguide']'
+2023-05-18 10:05:526 INFO  HomePage :29 - Mouse hover to BuySell link [[ChromeDriver: chrome on WINDOWS (c4c9e56832b38cb8c7c02e7118814d39)] -> xpath: //a[normalize-space()='buy + sell']]
+2023-05-18 10:05:708 INFO  HomePage :33 - Click on Search Cars link [[ChromeDriver: chrome on WINDOWS (c4c9e56832b38cb8c7c02e7118814d39)] -> xpath: //a[normalize-space()='Search Cars']]
+2023-05-18 10:05:770 INFO  NewAndUsedCarSearchPage :53 - Verify New And Used Car text Proxy element for: DefaultElementLocator 'By.xpath: //h1[normalize-space()='New & Used Car Search - carsguide']'
+2023-05-18 10:05:181 INFO  HomePage :29 - Mouse hover to BuySell link [[ChromeDriver: chrome on WINDOWS (79f9dd0eb07f0aa109de6b81a3b63c0c)] -> xpath: //a[normalize-space()='buy + sell']]
+2023-05-18 10:05:449 INFO  HomePage :33 - Click on Search Cars link [[ChromeDriver: chrome on WINDOWS (79f9dd0eb07f0aa109de6b81a3b63c0c)] -> xpath: //a[normalize-space()='Search Cars']]
+2023-05-18 10:05:317 INFO  HomePage :29 - Mouse hover to BuySell link [[ChromeDriver: chrome on WINDOWS (48e1038f47765d7f49967d93b1273cc4)] -> xpath: //a[normalize-space()='buy + sell']]
+2023-05-18 10:05:538 INFO  HomePage :33 - Click on Search Cars link [[ChromeDriver: chrome on WINDOWS (48e1038f47765d7f49967d93b1273cc4)] -> xpath: //a[normalize-space()='Search Cars']]
+2023-05-18 10:05:652 INFO  NewAndUsedCarSearchPage :53 - Verify New And Used Car text Proxy element for: DefaultElementLocator 'By.xpath: //h1[contains(text(),'New & Used Car Search - carsguide')]'
+2023-05-18 10:05:517 INFO  HomePage :29 - Mouse hover to BuySell link [[ChromeDriver: chrome on WINDOWS (8f5488fd0ed65fd272e6b1aff51b1a3d)] -> xpath: //a[normalize-space()='buy + sell']]
+2023-05-18 10:05:729 INFO  HomePage :33 - Click on Search Cars link [[ChromeDriver: chrome on WINDOWS (8f5488fd0ed65fd272e6b1aff51b1a3d)] -> xpath: //a[normalize-space()='Search Cars']]
+2023-05-18 10:05:817 INFO  NewAndUsedCarSearchPage :53 - Verify New And Used Car text Proxy element for: DefaultElementLocator 'By.xpath: //h1[contains(text(),'New & Used Car Search - carsguide')]'
+2023-05-18 10:05:323 INFO  HomePage :29 - Mouse hover to BuySell link [[ChromeDriver: chrome on WINDOWS (aaf448b4693b851e76377fc81b5c17a2)] -> xpath: //a[normalize-space()='buy + sell']]
+2023-05-18 10:05:568 INFO  HomePage :33 - Click on Search Cars link [[ChromeDriver: chrome on WINDOWS (aaf448b4693b851e76377fc81b5c17a2)] -> xpath: //a[normalize-space()='Search Cars']]
+2023-05-18 10:05:632 INFO  NewAndUsedCarSearchPage :53 - Verify New And Used Car text Proxy element for: DefaultElementLocator 'By.xpath: //h1[contains(text(),'New & Used Car Search - carsguide')]'
+2023-05-18 10:05:728 INFO  HomePage :29 - Mouse hover to BuySell link [[ChromeDriver: chrome on WINDOWS (0d97d478f408fc3f4a61f190434d7ca6)] -> xpath: //a[normalize-space()='buy + sell']]
+2023-05-18 10:05:726 INFO  HomePage :33 - Click on Search Cars link [[ChromeDriver: chrome on WINDOWS (0d97d478f408fc3f4a61f190434d7ca6)] -> xpath: //a[normalize-space()='Search Cars']]
+2023-05-18 10:05:836 INFO  NewAndUsedCarSearchPage :53 - Verify New And Used Car text [[ChromeDriver: chrome on WINDOWS (0d97d478f408fc3f4a61f190434d7ca6)] -> xpath: //h1[contains(text(),'New & Used Car Search - carsguide')]]
+2023-05-18 10:05:916 INFO  HomePage :29 - Mouse hover to BuySell link [[ChromeDriver: chrome on WINDOWS (12b30d98a21a3391acb2252eaa54967b)] -> xpath: //a[normalize-space()='buy + sell']]
+2023-05-18 10:05:127 INFO  HomePage :33 - Click on Search Cars link [[ChromeDriver: chrome on WINDOWS (12b30d98a21a3391acb2252eaa54967b)] -> xpath: //a[normalize-space()='Search Cars']]
+2023-05-18 10:05:426 INFO  NewAndUsedCarSearchPage :53 - Verify New And Used Car text [[ChromeDriver: chrome on WINDOWS (12b30d98a21a3391acb2252eaa54967b)] -> xpath: //h1[contains(text(),'New & Used Car Search - carsguide')]]
+2023-05-18 10:05:243 INFO  HomePage :29 - Mouse hover to BuySell link [[ChromeDriver: chrome on WINDOWS (216f2b7f1a2a492de75ef42a539edd45)] -> xpath: //a[normalize-space()='buy + sell']]
+2023-05-18 10:05:634 INFO  HomePage :33 - Click on Search Cars link [[ChromeDriver: chrome on WINDOWS (216f2b7f1a2a492de75ef42a539edd45)] -> xpath: //a[normalize-space()='Search Cars']]
+2023-05-18 10:05:22 INFO  NewAndUsedCarSearchPage :53 - Verify New And Used Car text [[ChromeDriver: chrome on WINDOWS (216f2b7f1a2a492de75ef42a539edd45)] -> xpath: //h1[contains(text(),'New & Used Car Search - carsguide')]]
+2023-05-18 10:05:975 INFO  HomePage :29 - Mouse hover to BuySell link [[ChromeDriver: chrome on WINDOWS (6ab2ee4bdc33fbc0a7b96b613caa01ff)] -> xpath: //a[normalize-space()='buy + sell']]
+2023-05-18 10:05:564 INFO  HomePage :29 - Mouse hover to BuySell link [[ChromeDriver: chrome on WINDOWS (90bbf72e2d505268b442d9e49e95dee4)] -> xpath: //a[normalize-space()='buy + sell']]
+2023-05-18 10:05:952 INFO  HomePage :33 - Click on Search Cars link [[ChromeDriver: chrome on WINDOWS (90bbf72e2d505268b442d9e49e95dee4)] -> xpath: //a[normalize-space()='Search Cars']]
+2023-05-18 10:05:45 INFO  NewAndUsedCarSearchPage :53 - Verify New And Used Car text [[ChromeDriver: chrome on WINDOWS (90bbf72e2d505268b442d9e49e95dee4)] -> xpath: //h1[contains(text(),'New & Used Car Search - carsguide')]]
+2023-05-18 10:05:449 INFO  HomePage :29 - Mouse hover to BuySell link [[ChromeDriver: chrome on WINDOWS (5af980a7c39f499f100019e92733aa41)] -> xpath: //a[normalize-space()='buy + sell']]
+2023-05-18 10:05:926 INFO  HomePage :33 - Click on Search Cars link [[ChromeDriver: chrome on WINDOWS (5af980a7c39f499f100019e92733aa41)] -> xpath: //a[normalize-space()='Search Cars']]
+2023-05-18 10:05:220 INFO  NewAndUsedCarSearchPage :53 - Verify New And Used Car text [[ChromeDriver: chrome on WINDOWS (5af980a7c39f499f100019e92733aa41)] -> xpath: //h1[contains(text(),'New & Used Car Search - carsguide')]]
+2023-05-18 10:05:532 INFO  HomePage :29 - Mouse hover to BuySell link [[ChromeDriver: chrome on WINDOWS (5dcfedbcec45b85a8db93071bf59c6fb)] -> xpath: //a[normalize-space()='buy + sell']]
+2023-05-18 10:05:17 INFO  HomePage :33 - Click on Search Cars link [[ChromeDriver: chrome on WINDOWS (5dcfedbcec45b85a8db93071bf59c6fb)] -> xpath: //a[normalize-space()='Search Cars']]
+2023-05-18 10:05:371 INFO  NewAndUsedCarSearchPage :53 - Verify New And Used Car text [[ChromeDriver: chrome on WINDOWS (5dcfedbcec45b85a8db93071bf59c6fb)] -> xpath: //h1[contains(text(),'New & Used Car Search - carsguide')]]
+2023-05-18 11:05:795 INFO  HomePage :29 - Mouse hover to BuySell link [[ChromeDriver: chrome on WINDOWS (036435d4ab4aaf57f9a336f086443db8)] -> xpath: //a[normalize-space()='buy + sell']]
+2023-05-18 11:05:899 INFO  HomePage :33 - Click on Search Cars link [[ChromeDriver: chrome on WINDOWS (036435d4ab4aaf57f9a336f086443db8)] -> xpath: //a[normalize-space()='Search Cars']]
+2023-05-18 11:05:41 INFO  NewAndUsedCarSearchPage :53 - Verify New And Used Car text [[ChromeDriver: chrome on WINDOWS (036435d4ab4aaf57f9a336f086443db8)] -> xpath: //h1[contains(text(),'New & Used Car Search - carsguide')]]
+2023-05-18 11:05:598 INFO  HomePage :29 - Mouse hover to BuySell link [[ChromeDriver: chrome on WINDOWS (67d827fb80f040b1b09c3f2655950f93)] -> xpath: //a[normalize-space()='buy + sell']]
+2023-05-18 11:05:505 INFO  HomePage :29 - Mouse hover to BuySell link [[ChromeDriver: chrome on WINDOWS (bc37509571a92132a3f9c933f6c9cb9f)] -> xpath: //a[normalize-space()='buy + sell']]
+2023-05-18 11:05:330 INFO  HomePage :33 - Click on Search Cars link [[ChromeDriver: chrome on WINDOWS (bc37509571a92132a3f9c933f6c9cb9f)] -> xpath: //a[normalize-space()='Search Cars']]
+2023-05-18 11:05:702 INFO  NewAndUsedCarSearchPage :53 - Verify New And Used Car text [[ChromeDriver: chrome on WINDOWS (bc37509571a92132a3f9c933f6c9cb9f)] -> xpath: //h1[contains(text(),'New & Used Car Search - carsguide')]]
+2023-05-18 11:05:917 INFO  HomePage :29 - Mouse hover to BuySell link [[ChromeDriver: chrome on WINDOWS (7137702c342772b498d3abb3972ae6c4)] -> xpath: //a[normalize-space()='buy + sell']]
+2023-05-18 11:05:246 INFO  HomePage :33 - Click on Search Cars link [[ChromeDriver: chrome on WINDOWS (7137702c342772b498d3abb3972ae6c4)] -> xpath: //a[normalize-space()='Search Cars']]
+2023-05-18 11:05:405 INFO  NewAndUsedCarSearchPage :53 - Verify New And Used Car text [[ChromeDriver: chrome on WINDOWS (7137702c342772b498d3abb3972ae6c4)] -> xpath: //h1[contains(text(),'New & Used Car Search - carsguide')]]
+2023-05-18 11:05:305 INFO  HomePage :29 - Mouse hover to BuySell link [[ChromeDriver: chrome on WINDOWS (ab88f2e137a7f1a652dc7be3bbe280a0)] -> xpath: //a[normalize-space()='buy + sell']]
+2023-05-18 11:05:284 INFO  HomePage :33 - Click on Search Cars link [[ChromeDriver: chrome on WINDOWS (ab88f2e137a7f1a652dc7be3bbe280a0)] -> xpath: //a[normalize-space()='Search Cars']]
+2023-05-18 11:05:422 INFO  NewAndUsedCarSearchPage :53 - Verify New And Used Car text [[ChromeDriver: chrome on WINDOWS (ab88f2e137a7f1a652dc7be3bbe280a0)] -> xpath: //h1[contains(text(),'New & Used Car Search - carsguide')]]
+2023-05-18 11:05:846 INFO  HomePage :29 - Mouse hover to BuySell link [[ChromeDriver: chrome on WINDOWS (da48c75abd9ff9cbad90a6099e4dcdd4)] -> xpath: //a[normalize-space()='buy + sell']]
+2023-05-18 11:05:572 INFO  HomePage :33 - Click on Search Cars link [[ChromeDriver: chrome on WINDOWS (da48c75abd9ff9cbad90a6099e4dcdd4)] -> xpath: //a[normalize-space()='Search Cars']]
+2023-05-18 11:05:981 INFO  NewAndUsedCarSearchPage :53 - Verify New And Used Car text [[ChromeDriver: chrome on WINDOWS (da48c75abd9ff9cbad90a6099e4dcdd4)] -> xpath: //h1[contains(text(),'New & Used Car Search - carsguide')]]
+2023-05-18 11:05:531 INFO  HomePage :29 - Mouse hover to BuySell link [[ChromeDriver: chrome on WINDOWS (a3948e3f9ba65685b9f35f9be3f6c691)] -> xpath: //a[normalize-space()='buy + sell']]
+2023-05-18 11:05:563 INFO  HomePage :33 - Click on Search Cars link [[ChromeDriver: chrome on WINDOWS (a3948e3f9ba65685b9f35f9be3f6c691)] -> xpath: //a[normalize-space()='Search Cars']]
+2023-05-18 11:05:723 INFO  NewAndUsedCarSearchPage :53 - Verify New And Used Car text [[ChromeDriver: chrome on WINDOWS (a3948e3f9ba65685b9f35f9be3f6c691)] -> xpath: //h1[contains(text(),'New & Used Car Search - carsguide')]]
+2023-05-18 11:05:385 INFO  HomePage :29 - Mouse hover to BuySell link [[ChromeDriver: chrome on WINDOWS (c210253688a9391ed40ca30a27b3de10)] -> xpath: //a[normalize-space()='buy + sell']]
+2023-05-18 11:05:863 INFO  HomePage :33 - Click on Search Cars link [[ChromeDriver: chrome on WINDOWS (c210253688a9391ed40ca30a27b3de10)] -> xpath: //a[normalize-space()='Search Cars']]
+2023-05-18 11:05:65 INFO  NewAndUsedCarSearchPage :53 - Verify New And Used Car text [[ChromeDriver: chrome on WINDOWS (c210253688a9391ed40ca30a27b3de10)] -> xpath: //h1[contains(text(),'New & Used Car Search - carsguide')]]
+2023-05-18 11:05:417 INFO  HomePage :29 - Mouse hover to BuySell link [[ChromeDriver: chrome on WINDOWS (a75c187c337abf5a0420e39fd42d88be)] -> xpath: //a[normalize-space()='buy + sell']]
+2023-05-18 11:05:88 INFO  HomePage :33 - Click on Search Cars link [[ChromeDriver: chrome on WINDOWS (a75c187c337abf5a0420e39fd42d88be)] -> xpath: //a[normalize-space()='Search Cars']]
+2023-05-18 11:05:460 INFO  NewAndUsedCarSearchPage :53 - Verify New And Used Car text [[ChromeDriver: chrome on WINDOWS (a75c187c337abf5a0420e39fd42d88be)] -> xpath: //h1[contains(text(),'New & Used Car Search - carsguide')]]
+2023-05-18 11:05:899 INFO  HomePage :29 - Mouse hover to BuySell link [[ChromeDriver: chrome on WINDOWS (41a22c1d47d6fc3b36cc33cf2462d468)] -> xpath: //a[normalize-space()='buy + sell']]
+2023-05-18 11:05:151 INFO  HomePage :33 - Click on Search Cars link [[ChromeDriver: chrome on WINDOWS (41a22c1d47d6fc3b36cc33cf2462d468)] -> xpath: //a[normalize-space()='Search Cars']]
+2023-05-18 11:05:501 INFO  NewAndUsedCarSearchPage :53 - Verify New And Used Car text [[ChromeDriver: chrome on WINDOWS (41a22c1d47d6fc3b36cc33cf2462d468)] -> xpath: //h1[contains(text(),'New & Used Car Search - carsguide')]]
+2023-05-18 11:05:879 INFO  HomePage :29 - Mouse hover to BuySell link [[ChromeDriver: chrome on WINDOWS (c9df914177bde403dc6b9caffd40a2eb)] -> xpath: //a[normalize-space()='buy + sell']]
+2023-05-18 11:05:269 INFO  HomePage :33 - Click on Search Cars link [[ChromeDriver: chrome on WINDOWS (c9df914177bde403dc6b9caffd40a2eb)] -> xpath: //a[normalize-space()='Search Cars']]
+2023-05-18 11:05:610 INFO  NewAndUsedCarSearchPage :53 - Verify New And Used Car text [[ChromeDriver: chrome on WINDOWS (c9df914177bde403dc6b9caffd40a2eb)] -> xpath: //h1[contains(text(),'New & Used Car Search - carsguide')]]
+2023-05-18 20:05:224 INFO  HomePage :32 - Mouse hover to BuySell link [[ChromeDriver: chrome on WINDOWS (52ddbb819b0e5bf44f2af214e49b1146)] -> xpath: //a[normalize-space()='buy + sell']]
+2023-05-18 20:05:592 INFO  HomePage :36 - Click on Search Cars link [[ChromeDriver: chrome on WINDOWS (52ddbb819b0e5bf44f2af214e49b1146)] -> xpath: //a[normalize-space()='Search Cars']]
+2023-05-18 20:05:166 INFO  NewAndUsedCarSearchPage :53 - Verify New And Used Car text [[ChromeDriver: chrome on WINDOWS (52ddbb819b0e5bf44f2af214e49b1146)] -> xpath: //h1[contains(text(),'New & Used Car Search - carsguide')]]
+2023-05-19 17:05:204 INFO  HomePage :32 - Mouse hover to BuySell link [[ChromeDriver: chrome on WINDOWS (95ccf1a9b413fee5cf47834b2f16b325)] -> xpath: //a[normalize-space()='buy + sell']]
+2023-05-19 17:05:373 INFO  HomePage :36 - Click on Search Cars link [[ChromeDriver: chrome on WINDOWS (95ccf1a9b413fee5cf47834b2f16b325)] -> xpath: //a[normalize-space()='Search Cars']]
+2023-05-19 17:05:887 INFO  NewAndUsedCarSearchPage :56 - Verify New And Used Car text [[ChromeDriver: chrome on WINDOWS (95ccf1a9b413fee5cf47834b2f16b325)] -> xpath: //h1[contains(text(),'New & Used Car Search - carsguide')]]
+2023-05-19 17:05:752 INFO  HomePage :32 - Mouse hover to BuySell link [[ChromeDriver: chrome on WINDOWS (ae23f7c26fb7f50627e2a115038c9fe4)] -> xpath: //a[normalize-space()='buy + sell']]
+2023-05-19 17:05:993 INFO  HomePage :36 - Click on Search Cars link [[ChromeDriver: chrome on WINDOWS (ae23f7c26fb7f50627e2a115038c9fe4)] -> xpath: //a[normalize-space()='Search Cars']]
+2023-05-19 17:05:542 INFO  NewAndUsedCarSearchPage :56 - Verify New And Used Car text [[ChromeDriver: chrome on WINDOWS (ae23f7c26fb7f50627e2a115038c9fe4)] -> xpath: //h1[contains(text(),'New & Used Car Search - carsguide')]]
+2023-05-19 17:05:160 INFO  HomePage :32 - Mouse hover to BuySell link [[ChromeDriver: chrome on WINDOWS (3d018ae6e2dfe66d525d23595dd78568)] -> xpath: //a[normalize-space()='buy + sell']]
+2023-05-19 17:05:296 INFO  HomePage :36 - Click on Search Cars link [[ChromeDriver: chrome on WINDOWS (3d018ae6e2dfe66d525d23595dd78568)] -> xpath: //a[normalize-space()='Search Cars']]
+2023-05-19 17:05:734 INFO  NewAndUsedCarSearchPage :56 - Verify New And Used Car text [[ChromeDriver: chrome on WINDOWS (3d018ae6e2dfe66d525d23595dd78568)] -> xpath: //h1[contains(text(),'New & Used Car Search - carsguide')]]
+2023-05-19 18:05:322 INFO  HomePage :31 - mouse hover on buy+sell tab
+2023-05-19 18:05:642 INFO  HomePage :37 - click ‘Search Cars’ link
+2023-05-19 18:05:950 INFO  HomePage :31 - mouse hover on buy+sell tab
+2023-05-19 18:05:808 INFO  HomePage :37 - click ‘Search Cars’ link
+2023-05-19 18:05:289 INFO  HomePage :31 - mouse hover on buy+sell tab
+2023-05-19 18:05:917 INFO  HomePage :37 - click ‘Search Cars’ link
+2023-05-19 18:05:848 INFO  HomePage :31 - mouse hover on buy+sell tab
+2023-05-19 18:05:35 INFO  HomePage :37 - click ‘Search Cars’ link
+2023-05-19 18:05:119 INFO  HomePage :31 - mouse hover on buy+sell tab
+2023-05-19 18:05:140 INFO  HomePage :37 - click ‘Search Cars’ link
+2023-05-19 18:05:124 INFO  HomePage :31 - mouse hover on buy+sell tab
+2023-05-19 18:05:359 INFO  HomePage :37 - click ‘Search Cars’ link
+2023-05-19 18:05:567 INFO  HomePage :31 - mouse hover on buy+sell tab
+2023-05-19 18:05:728 INFO  HomePage :43 - click ‘Used’ link
+2023-05-19 18:05:705 INFO  HomePage :31 - mouse hover on buy+sell tab
+2023-05-19 18:05:945 INFO  HomePage :43 - click ‘Used’ link
+2023-05-19 18:05:298 INFO  HomePage :31 - mouse hover on buy+sell tab
+2023-05-19 18:05:236 INFO  HomePage :43 - click ‘Used’ link
+2023-05-19 18:05:510 INFO  HomePage :31 - mouse hover on buy+sell tab
+2023-05-19 18:05:743 INFO  HomePage :43 - click ‘Used’ link
+2023-05-19 18:05:880 INFO  HomePage :31 - mouse hover on buy+sell tab
+2023-05-19 18:05:165 INFO  HomePage :43 - click ‘Used’ link
+2023-05-19 18:05:727 INFO  HomePage :31 - mouse hover on buy+sell tab
+2023-05-19 18:05:976 INFO  HomePage :43 - click ‘Used’ link
+2023-05-19 18:05:922 INFO  HomePage :31 - mouse hover on buy+sell tab
+2023-05-19 18:05:660 INFO  HomePage :37 - click ‘Search Cars’ link
+2023-05-19 18:05:125 INFO  HomePage :31 - mouse hover on buy+sell tab
+2023-05-19 18:05:970 INFO  HomePage :37 - click ‘Search Cars’ link
+2023-05-19 18:05:397 INFO  HomePage :31 - mouse hover on buy+sell tab
+2023-05-19 18:05:06 INFO  HomePage :37 - click ‘Search Cars’ link
+2023-05-19 18:05:222 INFO  HomePage :31 - mouse hover on buy+sell tab
+2023-05-19 18:05:836 INFO  HomePage :37 - click ‘Search Cars’ link
+2023-05-19 18:05:960 INFO  HomePage :31 - mouse hover on buy+sell tab
+2023-05-19 18:05:150 INFO  HomePage :37 - click ‘Search Cars’ link
+2023-05-19 18:05:891 INFO  HomePage :31 - mouse hover on buy+sell tab
+2023-05-19 18:05:559 INFO  HomePage :37 - click ‘Search Cars’ link
+2023-05-19 18:05:552 INFO  HomePage :31 - mouse hover on buy+sell tab
+2023-05-19 18:05:819 INFO  HomePage :43 - click ‘Used’ link
+2023-05-19 18:05:468 INFO  HomePage :31 - mouse hover on buy+sell tab
+2023-05-19 18:05:65 INFO  HomePage :43 - click ‘Used’ link
+2023-05-19 18:05:949 INFO  HomePage :31 - mouse hover on buy+sell tab
+2023-05-19 18:05:312 INFO  HomePage :43 - click ‘Used’ link
+2023-05-19 18:05:511 INFO  HomePage :31 - mouse hover on buy+sell tab
+2023-05-19 18:05:02 INFO  HomePage :43 - click ‘Used’ link
+2023-05-19 18:05:738 INFO  HomePage :31 - mouse hover on buy+sell tab
+2023-05-19 18:05:143 INFO  HomePage :43 - click ‘Used’ link
+2023-05-19 18:05:387 INFO  HomePage :31 - mouse hover on buy+sell tab
+2023-05-19 18:05:801 INFO  HomePage :43 - click ‘Used’ link
+2023-05-19 18:05:437 INFO  HomePage :31 - mouse hover on buy+sell tab
+2023-05-19 18:05:865 INFO  FindTheDealerPage :31 - Verify New And Used Car text [[ChromeDriver: chrome on WINDOWS (a0c277e2cc0ae82069a1610ae1e3a939)] -> xpath: //h1[contains(text(),'Find a Car Dealership Near You')]]
+2023-05-19 18:05:584 INFO  HomePage :31 - mouse hover on buy+sell tab
+2023-05-19 18:05:773 INFO  FindTheDealerPage :31 - Verify New And Used Car text [[ChromeDriver: chrome on WINDOWS (fa328e287bdca4c11ea3921419381e59)] -> xpath: //h1[contains(text(),'Find a Car Dealership Near You')]]
+2023-05-19 18:05:445 INFO  HomePage :31 - mouse hover on buy+sell tab
+2023-05-19 18:05:111 INFO  FindTheDealerPage :31 - Verify New And Used Car text [[ChromeDriver: chrome on WINDOWS (1e3e9f806f339ca9bb7be9b87e260759)] -> xpath: //h1[contains(text(),'Find a Car Dealership Near You')]]
+2023-05-19 18:05:407 INFO  HomePage :31 - mouse hover on buy+sell tab
+2023-05-19 18:05:878 INFO  FindTheDealerPage :31 - Verify New And Used Car text [[ChromeDriver: chrome on WINDOWS (7f429913d1a6f4be75fc4841e547a38e)] -> xpath: //h1[contains(text(),'Find a Car Dealership Near You')]]
+2023-05-19 18:05:784 INFO  HomePage :31 - mouse hover on buy+sell tab
+2023-05-19 18:05:969 INFO  FindTheDealerPage :31 - Verify New And Used Car text [[ChromeDriver: chrome on WINDOWS (2847fc133b1a08979e81a342d333c64a)] -> xpath: //h1[contains(text(),'Find a Car Dealership Near You')]]
+2023-05-19 18:05:453 INFO  HomePage :31 - mouse hover on buy+sell tab
+2023-05-19 18:05:834 INFO  HomePage :31 - mouse hover on buy+sell tab
+2023-05-19 18:05:44 INFO  FindTheDealerPage :31 - Verify New And Used Car text [[ChromeDriver: chrome on WINDOWS (11b945434dc4e988dd876e68eda7d4ae)] -> xpath: //h1[contains(text(),'Find a Car Dealership Near You')]]
+2023-05-19 18:05:190 INFO  HomePage :31 - mouse hover on buy+sell tab
+2023-05-19 18:05:409 INFO  HomePage :37 - click ‘Search Cars’ link
+2023-05-19 18:05:259 INFO  HomePage :31 - mouse hover on buy+sell tab
+2023-05-19 18:05:505 INFO  HomePage :37 - click ‘Search Cars’ link
+2023-05-19 18:05:325 INFO  HomePage :31 - mouse hover on buy+sell tab
+2023-05-19 18:05:738 INFO  HomePage :37 - click ‘Search Cars’ link
+2023-05-19 18:05:637 INFO  HomePage :31 - mouse hover on buy+sell tab
+2023-05-19 18:05:994 INFO  HomePage :37 - click ‘Search Cars’ link
+2023-05-19 18:05:518 INFO  HomePage :31 - mouse hover on buy+sell tab
+2023-05-19 18:05:103 INFO  HomePage :37 - click ‘Search Cars’ link
+2023-05-19 18:05:836 INFO  HomePage :31 - mouse hover on buy+sell tab
+2023-05-19 18:05:609 INFO  HomePage :37 - click ‘Search Cars’ link
+2023-05-19 18:05:767 INFO  HomePage :31 - mouse hover on buy+sell tab
+2023-05-19 18:05:448 INFO  HomePage :37 - click ‘Search Cars’ link
+2023-05-19 18:05:765 INFO  HomePage :31 - mouse hover on buy+sell tab
+2023-05-19 18:05:447 INFO  HomePage :37 - click ‘Search Cars’ link
+2023-05-19 18:05:747 INFO  HomePage :31 - mouse hover on buy+sell tab
+2023-05-19 18:05:913 INFO  HomePage :37 - click ‘Search Cars’ link
+2023-05-19 18:05:65 INFO  HomePage :31 - mouse hover on buy+sell tab
+2023-05-19 18:05:326 INFO  HomePage :37 - click ‘Search Cars’ link
+2023-05-19 18:05:457 INFO  HomePage :31 - mouse hover on buy+sell tab
+2023-05-19 18:05:391 INFO  HomePage :37 - click ‘Search Cars’ link
+2023-05-19 18:05:518 INFO  HomePage :31 - mouse hover on buy+sell tab
+2023-05-19 18:05:737 INFO  HomePage :43 - click ‘Used’ link
+2023-05-19 18:05:870 INFO  HomePage :31 - mouse hover on buy+sell tab
+2023-05-19 18:05:390 INFO  HomePage :43 - click ‘Used’ link
+2023-05-19 18:05:353 INFO  HomePage :31 - mouse hover on buy+sell tab
+2023-05-19 18:05:543 INFO  HomePage :43 - click ‘Used’ link
+2023-05-19 18:05:687 INFO  HomePage :31 - mouse hover on buy+sell tab
+2023-05-19 18:05:845 INFO  HomePage :43 - click ‘Used’ link
+2023-05-19 18:05:774 INFO  HomePage :31 - mouse hover on buy+sell tab
+2023-05-19 18:05:403 INFO  HomePage :43 - click ‘Used’ link
+2023-05-19 18:05:834 INFO  HomePage :31 - mouse hover on buy+sell tab
+2023-05-19 18:05:219 INFO  HomePage :43 - click ‘Used’ link
+2023-05-19 18:05:596 INFO  HomePage :31 - mouse hover on buy+sell tab
+2023-05-19 18:05:865 INFO  HomePage :31 - mouse hover on buy+sell tab
+2023-05-19 18:05:291 INFO  FindTheDealerPage :29 - Verify New And Used Car text [[ChromeDriver: chrome on WINDOWS (6427c8580f559de3f6631619d10365be)] -> xpath: //h1[contains(text(),'Find a Car Dealership Near You')]]
+2023-05-19 18:05:324 INFO  HomePage :31 - mouse hover on buy+sell tab
+2023-05-19 18:05:349 INFO  FindTheDealerPage :29 - Verify New And Used Car text [[ChromeDriver: chrome on WINDOWS (b1e3a1a7e078111892aed9d0d6aa4aee)] -> xpath: //h1[contains(text(),'Find a Car Dealership Near You')]]
+2023-05-19 18:05:405 INFO  HomePage :31 - mouse hover on buy+sell tab
+2023-05-19 18:05:907 INFO  FindTheDealerPage :29 - Verify New And Used Car text [[ChromeDriver: chrome on WINDOWS (a262a19413e5453cc6e634ee149a9127)] -> xpath: //h1[contains(text(),'Find a Car Dealership Near You')]]
+2023-05-19 18:05:987 INFO  HomePage :31 - mouse hover on buy+sell tab
+2023-05-19 18:05:718 INFO  FindTheDealerPage :29 - Verify New And Used Car text [[ChromeDriver: chrome on WINDOWS (17b1c1f4d1132a83ed4dfe19b35f2166)] -> xpath: //h1[contains(text(),'Find a Car Dealership Near You')]]
+2023-05-19 18:05:234 INFO  HomePage :31 - mouse hover on buy+sell tab
+2023-05-19 18:05:549 INFO  HomePage :31 - mouse hover on buy+sell tab
+2023-05-19 18:05:510 INFO  FindTheDealerPage :29 - Verify New And Used Car text [[ChromeDriver: chrome on WINDOWS (aa3b0879919bdc69886598c9f6f0a3c8)] -> xpath: //h1[contains(text(),'Find a Car Dealership Near You')]]
